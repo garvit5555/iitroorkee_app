@@ -98,12 +98,12 @@ Follow these steps to set up and run the IIT Roorkee AI Assistant on your local 
 ### Chat Interface
 This interface allows users to type their questions and receive text-based AI responses.
 
-![Chat Interface Screenshot](/Users/garvi/Downloads/mydecision.ai/chat_interface.png)
+![Chat Interface Screenshot](chat.jpg)
 
 ### Request a Call Feature
 Users can enter their phone number to receive an outbound call from the AI assistant. Once connected, they can ask their questions verbally.
 
-![Request a Call Screenshot](/Users/garvi/Downloads/mydecision.ai/request_call.png)
+![Request a Call Screenshot](call.jpg)
 
 ## 📚 Sample Dataset Used
 
